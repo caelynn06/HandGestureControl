@@ -123,8 +123,6 @@ import pyautogui # for keyboard control
 ```
 
 Open Utep website with picks up:
-```
-Open Utep website using picks up:
 ```python
 def open_myutep(): 
     url = "https://my.utep.edu" # feel free to change the link!
