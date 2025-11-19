@@ -1,10 +1,13 @@
 # HandGestureControl
 Workshop for GWC semester project that shows students the basics of MediaPipe and OpenCV
 
+## Run your code
+In your terminal you can use:
+python filename.py
+
 ## Set up your virtual enviroment!
 ### Create Virtual Environment:  
  python -m venv .venv
-  
   
 ### Activate enviroment:  
 
