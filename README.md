@@ -120,6 +120,8 @@ import subprocess # for running system commands
 import platform # for detecting operating system
 import os # for operating system interaction
 import pyautogui # for keyboard control
+```
+
 Open Utep website with picks up:
 ```
 Open Utep website using picks up:
