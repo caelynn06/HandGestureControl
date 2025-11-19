@@ -3,24 +3,24 @@ Workshop for GWC semester project that shows students the basics of MediaPipe an
 
 ## Set up your virtual enviroment!
 ### Create Virtual Environment:  
-- python -m venv .venv
+ python -m venv .venv
   
   
 ### Activate enviroment:  
 
 Mac:  
-- source myenv/bin/activate
+ source myenv/bin/activate
 
 
 Linux:  
-- source .venv/bin/activate
+ source .venv/bin/activate
 
   
 Windows:  
-- .venv\Scripts\activate
+ .venv\Scripts\activate
 
 ## Install neccessary libraries:  
-- pip install opencv-python mediapipe pyautogui numpy
+ pip install opencv-python mediapipe pyautogui numpy
 
 
 
