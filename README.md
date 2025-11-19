@@ -20,7 +20,10 @@ Linux:
 
   
 Windows:  
- .venv\Scripts\activate
+ .venv\Scripts\activate  
+
+ Bash:
+   source .venv/Scripts/activate
 
 ## Install neccessary libraries:  
  pip install opencv-python mediapipe pyautogui numpy
