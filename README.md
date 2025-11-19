@@ -148,7 +148,7 @@ import pyautogui # for keyboard control
 ```
 Open spotify with rock gesture:
 ```python
-ef open_spotify(): # os system calls spotify
+def open_spotify(): # os system calls spotify
     print("Opening Spotify")
     try:
         os.system("start spotify") # feel free to customize!
